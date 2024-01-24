@@ -1,7 +1,5 @@
-// setLetter function to change the state in the parent component
-// Which letter should the button display? 
-// Which letter should the button set the letter to
-// {letter: letter, setLetter: F}
+//props is an object with the key-value pairs you passed down from the parent component.
+// Here is it: {letter: letter, setLetter: f}
 
 const CheerButton = (props) => { 
      
